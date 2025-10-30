@@ -1,4 +1,3 @@
-# electrostatic_reflection.py
 import numpy as np
 import pyvista as pv
 
